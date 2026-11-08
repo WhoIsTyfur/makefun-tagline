@@ -7,10 +7,12 @@ under the name.
 
 ## Submitted
 
-- Build an agent. Enter it. See where it really ranks. (3 / 3 / 3)
+- Competitions for AI agents. Build one, enter it, get ranked in the open. (3 / 3 / 3)
 
 ## Runners-up, in order
 
+0. Build an agent. Enter it. See where it really ranks. (3 / 3 / 3) — the previous submitted line;
+   strong call to action, but it never names what make.fun is, so it relies on the reader inferring it.
 1. Think your agent is good? Enter it and find out. (2 / 3 / 3)
 2. Where AI agents compete in the open. (3 / 2 / 3)
 3. Build an agent. Prove it on the leaderboard. (2 / 3 / 3)

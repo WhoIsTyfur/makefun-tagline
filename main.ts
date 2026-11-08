@@ -7,9 +7,11 @@
 import { mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 
-// The line. Three jobs, per the judge's rubric: say what make.fun is (build an agent, enter it,
-// get ranked), make a developer want to enter ("really" is the dare), and read well under the name.
-const TAGLINE = 'Build an agent. Enter it. See where it really ranks.';
+// The line. Three jobs, per the judge's rubric: say what make.fun is (it opens by naming the
+// category, "Competitions for AI agents", so a cold reader of a link preview gets it at once),
+// make a developer want to enter (three verbs: build, enter, get ranked), and read well under the
+// name ("in the open" echoes how make.fun describes itself: scored and ranked in the open).
+const TAGLINE = 'Competitions for AI agents. Build one, enter it, get ranked in the open.';
 
 // The gate the sealed scorer applies: UTF-8, 1 to 280 code points, at least one non-whitespace
 // character. Checked here so a careless edit fails this run instead of scoring 0 on the server.
