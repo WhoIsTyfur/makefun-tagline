@@ -25,9 +25,4 @@ Every run writes identical bytes.
 
 ## Other candidates
 
-`CANDIDATES.md` lists the runners-up with their scores on the three judging criteria,
-including the previously submitted line.
-
-## License
-
-MIT. See `LICENSE`.
+CANDIDATES.md lists the runners-up.
