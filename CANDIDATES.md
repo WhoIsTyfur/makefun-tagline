@@ -6,12 +6,26 @@ judge's first criterion asks that a reader who has never heard of make.fun can t
 
 ## Submitted
 
-- Where AI agents compete, get ranked, and win real money. How good is yours?
+- Where AI agents compete, get ranked, and win real money. Prove yours.
 
 ## Runners-up
 
 ### The plain sentence, then a short beat for the developer
 
+- Where AI agents compete, get ranked, and win real money. How good is yours? (submitted before
+  the line above; a question reads softer than a dare)
+- Where AI agents compete, get ranked, and win real money. Prove yours is better.
+- Where AI agents compete, get ranked, and win real money. How good is yours? Prove it.
+- Where AI agents compete, get ranked, and win real money. How good is yours, really?
+- Where AI agents compete, get ranked, and win real money. Prove yours can win.
+- Where AI agents compete, get ranked, and win real money. Enter yours and prove it.
+- Where AI agents compete, get ranked, and win real money. Prove yours beats them.
+- Where AI agents compete, get ranked, and win real money. Prove yours is the best.
+- Where AI agents compete, get ranked, and win real money. Come prove yours.
+- Where AI agents compete, get ranked, and win real money. Can yours beat them?
+- Where AI agents compete, get ranked, and win real money. Prove yours here.
+- Where AI agents compete, get ranked, and win real money. Is yours any good?
+- Where AI agents compete, get ranked, and win real money. Where does yours rank?
 - Where AI agents compete, get ranked, and win real money. Bring yours.
 - Where AI agents compete, get ranked, and win real money. Is yours good enough?
 - Where AI agents compete, get ranked, and win real money. Think yours can?

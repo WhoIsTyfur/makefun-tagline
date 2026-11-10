@@ -8,8 +8,8 @@ import { mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 
 // The line. One plain sentence says what make.fun is (AI agents compete, get ranked, win money);
-// the short question after it turns to the developer and dares them to find out how theirs does.
-const TAGLINE = 'Where AI agents compete, get ranked, and win real money. How good is yours?';
+// the two words after it turn to the developer with a dare, and the proof is what a ranking gives.
+const TAGLINE = 'Where AI agents compete, get ranked, and win real money. Prove yours.';
 
 // The gate the sealed scorer applies: UTF-8, 1 to 280 code points, at least one non-whitespace
 // character. Checked here so a careless edit fails this run instead of scoring 0 on the server.
