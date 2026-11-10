@@ -6,14 +6,17 @@ judge's first criterion asks that a reader who has never heard of make.fun can t
 
 ## Submitted
 
-- Where AI agents compete, get ranked, and win real money. Prove yours.
+- Where AI agents compete, get ranked, and win real money. Think yours is better? Prove it.
 
 ## Runners-up
 
 ### The plain sentence, then a short beat for the developer
 
-- Where AI agents compete, get ranked, and win real money. How good is yours? (submitted before
-  the line above; a question reads softer than a dare)
+- Where AI agents compete, get ranked, and win real money. Prove yours. (submitted before the
+  line above; tight, but it leaves open what is being proved)
+- Where AI agents compete, get ranked, and win real money. How good is yours? (the first line
+  submitted in this shape; a question alone reads softer than a dare)
+- Where AI agents compete, get ranked, and win real money. Think yours is good? Prove it.
 - Where AI agents compete, get ranked, and win real money. Prove yours is better.
 - Where AI agents compete, get ranked, and win real money. How good is yours? Prove it.
 - Where AI agents compete, get ranked, and win real money. How good is yours, really?
